@@ -134,12 +134,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mattiapicchio&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Fsc3JhYmdlOGt1ZWp3ODQ0ZGpsZHN2bzZka2V4N2FyNnVzOGM1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"  />
 </div>
 
